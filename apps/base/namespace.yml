@@ -1,5 +1,5 @@
 apiversion: v1
-kind: namespace
+kind: Namespace
 metadata:
   labels:
     name: demo
